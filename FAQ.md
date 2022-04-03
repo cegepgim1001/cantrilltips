@@ -185,16 +185,16 @@ You may also see sso:GetRoleCredentials instead of sso:Federate. This is the mec
 Also see https://aws.amazon.com/blogs/security/aws-cloudtrail-now-logs-aws-management-console-sign-in-events/ 
 
 ## Wondering if anyone knows of a Linux course a person might invest inthat won't cost an arm and leg?
-free ones :
+free ones:
 https://www.youtube.com/c/LearnLinuxtv/playlists
 https://www.server-world.info/en/
 https://linux-training.be/
 https://blog.feedspot.com/linux_blogs/
 
-non-free :
-	Udemy :
+non-free:
+	Udemy:
 		Linux Administration: The Complete Linux Bootcamp for 2022, Andrei Dimitrescu
-	LinkedIn Learning :
+	LinkedIn Learning:
 		All from Grant McWilliams
 	Red Hat is also awesome but it is expensive
 	Another good, not free but not very expensive choice might be Cisco’s -  NDG Linux Essentials, and NDG Linux I, and II which indeed covers LPIC
