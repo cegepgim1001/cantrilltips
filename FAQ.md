@@ -183,3 +183,28 @@ to. Following this you will see a signin:ConsoleLogin event with an userIdentity
 You may also see sso:GetRoleCredentials instead of sso:Federate. This is the mechanism that generates the short-lived API tokens from the SSO portal.
 
 Also see https://aws.amazon.com/blogs/security/aws-cloudtrail-now-logs-aws-management-console-sign-in-events/ 
+
+## Wondering if anyone knows of a Linux course a person might invest inthat won't cost an arm and leg?
+free ones :
+https://www.youtube.com/c/LearnLinuxtv/playlists
+https://www.server-world.info/en/
+https://linux-training.be/
+https://blog.feedspot.com/linux_blogs/
+
+non-free :
+	Udemy :
+		Linux Administration: The Complete Linux Bootcamp for 2022, Andrei Dimitrescu
+	LinkedIn Learning :
+		All from Grant McWilliams
+	Red Hat is also awesome but it is expensive
+	Another good, not free but not very expensive choice might be Cisco’s -  NDG Linux Essentials, and NDG Linux I, and II which indeed covers LPIC
+	Safari have very nice books, and courses for linux, and you can test it for 30 days free (most of the mentioned above, not free have this option, or to return (for Udemy))
+	EdEx are giving you 7 weeks free, and you can also download most of the materials
+		https://www.edx.org/search?q=linux
+	if you are a teacher, you can use for free:
+		https://bookshelf.vitalsource.com/#/
+
+
+
+
+
